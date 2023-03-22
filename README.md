@@ -1,5 +1,11 @@
 ### Hi there 👋?
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnow2k&langs_count=9&hide=html&show_icons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blacksnow2k)](https://git.io/streak-stats)
+
+![BLS2K GitHub stats](https://github-readme-stats.vercel.app/api?username=blacksnow2k&show_icons=true)
+
 
 
 Here are some ideas to get you started:
@@ -12,3 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [DEEP-LEARNING]
 - 😄 Pronouns: un/known
 - ⚡ Fun fact: [DEEP-LEARNING]
+
+
